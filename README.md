@@ -1,4 +1,4 @@
-[![Check Assignment](https://github.com/ghclass-paper/midterm1_alice/workflows/Check%20Assignment/badge.svg)](https://github.com/ghclass-paper/midterm1_alice/actions?query=workflow:%22Check%20Assignment%22)
+[![Check Assignment](https://github.com/ghclass-paper/midterm1_ghclass-alice/workflows/Check%20Assignment/badge.svg)](https://github.com/ghclass-paper/midterm1_ghclass-alice/actions?query=workflow:%22Check%20Assignment%22)
 
 
 Midterm 1
